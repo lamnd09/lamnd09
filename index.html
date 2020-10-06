@@ -2,6 +2,55 @@
 <html>
 
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: "Lato", sans-serif;
+        }
+        
+        .sidenav {
+            width: 180px;
+            position: fixed;
+            z-index: 1;
+            top: 20px;
+            left: 10px;
+            background: #eee;
+            overflow-x: hidden;
+            padding: 8px 0;
+        }
+        
+        .sidenav a {
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #2196F3;
+            display: block;
+        }
+        
+        .sidenav a:hover {
+            color: #064579;
+        }
+        
+        .main {
+            margin-left: 140px;
+            /* Same width as the sidebar + left position in px */
+            font-size: 28px;
+            /* Increased text to enable scrolling */
+            padding: 0px 10px;
+        }
+        
+        @media screen and (max-height: 450px) {
+            .sidenav {
+                padding-top: 15px;
+            }
+            .sidenav a {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+
+<head>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -11,7 +60,18 @@
 
 </head>
 
+
 <body style="margin-left: 20%;margin-right: 20%;">
+    <div class="sidenav" style="margin-left: 8%;">
+        <a href="#Home">Home</a>
+        <a href="#services">Interests</a>
+        <a href="#clients">Education</a>
+        <a href="#contact">Publications</a>
+        <a href="#contact">Experiences</a>
+        <a href="#contact">Awards</a>
+        <a href="#contact">Services</a>
+        <a href="#contact">Notes</a>
+    </div>
 
     <page size="A4">
         <hr size=" 5 " color="blue ">
@@ -25,7 +85,7 @@
                     <h1> Lam D. Nguyen <img src="image/logoAdu9.png " alt="Smiley face " width="200 " height="80 " style="position:absolute; TOP:400px; RIGHT:20px "> </h1>
                     <p style="font-size:120%;"> <b>PhD Fellow </b> at Department of Electronic Systems, Aalborg University, Denmark. </p>
                     <p style="font-size:120%;"> <b>Blockchain Tech Lead  </b> at TRUEDIP, bClimate</p>
-                    <p style="font-size:120%;"> <b>Member  </b> at Hyperledger Climate Change</p>
+                    <p style="font-size:120%;"> <b>Member  </b> at Hyperledger Climate Change & IEEE</p>
 
                     <p style="font-size:120%;"> <b>Contact </b> </p>
                     <ul>
@@ -36,7 +96,7 @@
                     <p><a href="https://scholar.google.com/citations?user=HDaJwWUAAAAJ&hl=en " target="_blank " style="color:blue; text-decoration: none ">Google Scholar</a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/lamnguyenduc/ " target="_blank
         " style="color:blue; text-decoration: none ">LinkedIn</a> &nbsp; &nbsp; <a href="https://scholar.google.com/citations?user=HDaJwWUAAAAJ&hl=en " target="_blank " style="color:blue; text-decoration: none ">Github</a></p>
 
-                    <p style="font-size:130%;"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+                    <p style="font-size:120%;"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
                         <a target="_blank " style="color:red; text-decoration: none ">  A young guy with crazy passion on doing research and design Blockchain-based applications </a></p>
                 </div>
             </div>
@@ -207,6 +267,7 @@
             <p>I would like to express my deepest gratitude to my current supervisor (Prof. Petar Popovski) and former advisors Prof. Chong-Kwon Kim and Prof. Nguyen Huu Thanh for supporting and guiding me during my studies in Graduate and Undergraduate
                 school. I always find them an in-depth source of knowledge and I am tremendously inspired by their way of doing Research. </p>
 
+            <a href="https://info.flagcounter.com/C22A"><img src="https://s11.flagcounter.com/count/C22A/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
         </div>
         <hr size="5 " color="blue ">
     </page>
