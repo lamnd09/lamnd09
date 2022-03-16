@@ -1,6 +1,6 @@
 # Welcome 
 
-Lam Duc Nguyen is a Ph.D. Fellow at Aalborg University. He obtained Master Degree in Computer Science at Seoul National University, and a Bachelor's in Telecommunication at Hanoi University of Science and Technologies in 2019 and 2015, respectively. His research interest includes building Distributed Systems, Blockchain, Data Marketplace over 5G network based on Smart Contracts, DeFi for the Internet of Things, and applying Blockchain and Federated Learning to enhance the efficiency of Blockchain-based IoT monitoring Networks.
+**Lam Duc Nguyen** is a Ph.D. Fellow at Aalborg University. He obtained Master Degree in Computer Science at Seoul National University, and a Bachelor's in Telecommunication at Hanoi University of Science and Technologies in 2019 and 2015, respectively. His research interest includes building Distributed Systems, Blockchain, Data Marketplace over 5G network based on Smart Contracts, DeFi for the Internet of Things, and applying Blockchain and Federated Learning to enhance the efficiency of Blockchain-based IoT monitoring Networks.
 
 He is key contributor of 2 European-funded Project namely INTELLIOT and WILLOW. In these projects, he contributed his knowledge on Blockchain and Wireless IoT systems, and practical implemented Blockchain and Smart Contract for cross-domain applications. He worked as a Blockchain Architect in SIEMENS AG, Munich in line with INTELLIOT project to build PoCs and infrastructure for shared Manufacturing over 5G network, Digital Twin, and Data Marketplace applications, in which he shows his expertise on development of Ethereum, IOTA, Hyperledger Fabric, Quorum, and Solana, as well as Wireless IoT systems.
 
@@ -8,9 +8,9 @@ He receives OUTSTANDING RESEARCH AWARD for the research about scaling Blockchain
 
 In summary: 
 
-:rocket: +5 years experience with development of Ethereum/Smart Contract/DAPPs
+:rocket: **+5 years** experience with development of Ethereum/Smart Contract/DAPPs
 
-:rocket: +5 years Experience with IoT System Design 
+:rocket: **+5 years** Experience with IoT System Design 
 
 :hearts: Familar with Python, Solidity, Nodejs, and Golang
 
