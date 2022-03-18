@@ -6,7 +6,7 @@ He is key contributor of 2 European-funded Project namely INTELLIOT and WILLOW. 
 
 He receives OUTSTANDING RESEARCH AWARD for the research about scaling Blockchain in Massive IoT at the IEEE World Forum Internet of Things 2020, travel grant from Linux Foundation 2020, BEST RESEARCH AWARD for a solution of Blockchain-based CO2 Emission Trading from VEHITS 2021. He is Hyperledger Member, IEEE Student Member, and IEEE ComSoc Student Member. He was a Co-founder of Adu9-an IoT-based Startup.
 
-In summary: 
+**In summary: **
 
 :rocket: **+5 years** experience with development of Ethereum/Smart Contract/DAPPs
 
