@@ -31,9 +31,33 @@
         .sidenav a:hover {
             color: #064579;
         }
-        
+		.navbar {
+			overflow: hidden;
+			background-color: #FF5733;
+			position: fixed;
+			top: 0;
+			width: 50%;
+			transition: top 0.3s;
+			margin : 0 !important; 
+			}
+
+		.navbar a {
+		  float: left;
+		  display: block;
+		  color: #FDFDFD;
+		  text-align: center;
+		  padding: 14px 16px;
+		  text-decoration: none;
+		  font-size: 15px;
+		}
+
+		.navbar a:hover {
+		  background: #ddd;
+		  color: black;
+		}
+	
         .main {
-            margin-left: 140px;
+            margin-top: 50px;
             /* Same width as the sidebar + left position in px */
             font-size: 28px;
             /* Increased text to enable scrolling */
@@ -61,12 +85,13 @@
 
 </head>
 
-<body style="margin-left: 20%;margin-right: 20%;">
+<body style="margin-left: 20%; margin-right: 30%; margin-top: 2.5%">
     <div id="wrapper"></div>
-    <div class="sidenav" style="margin-left: 8%;">
+	
+    <div class="navbar" style="margin-top">
         <a href="#Home">Home</a>
         <a href="#education">Education</a>
-	<a href="#publications">Publications</a>
+		<a href="#publications">Publications</a>
         <a href="#research">Research</a>        
         <a href="#experiences">Experiences</a>
         <a href="#awards">Awards</a>
@@ -82,9 +107,9 @@
                 <div class="column left " style="background-color:#ffffff; ">
                     <img src="image/profile.jpg " width="320 " height="200 " ALIGN="right" />
                 </div>
-                <div class="column right " style="background-color:#ffffff; ">
+                <div class="column right " style="background-color:#ffffff ">
                     <h1 id="Home"> Lam Duc Nguyen </h1>
-                    <p style="font-size:120%;"> &#9830 <b>PhD Fellow </b> at Department of Electronic Systems, Aalborg University. </p>
+                    <p style="font-size:100%;"> &#9830 <b>PhD Fellow </b> at Department of Electronic Systems, Aalborg University. </p>
                     <p style="font-size:120%;"> &#9830 <b>Member  </b> at Hyperledger-labs </p>
                     <p style="font-size:120%;"> &#9830 <a href="https://vbn.aau.dk/en/persons/lam-duc-nguyen" target="_blank " style="color:#2196F3; text-decoration: none ">AAU Webpage</a> </p>
 
@@ -131,7 +156,7 @@
             <h2> <a target="_blank " style="color:blue; text-decoration: none " id="bio"> Bio </a></h2>
             <p style="text-align: justify;"> 
 		    Lam Duc Nguyen is a Ph.D. Fellow at Aalborg University. He ob- tained Master Degree in Computer Science at Seoul National University, and a Bachelor in Telecommunication at Hanoi University of Science and Technologies in 2019 and 2015, respectively. His research interest includes building Distributed Systems, Blockchain, Data Marketplace over 5G net- work based on Smart Contracts, DeFi for the Internet of Things, and applying Blockchain and Federated Learning to enhance the efficiency of Blockchain-based IoT monitoring Networks. <br> 
-		    He is key contributor of a European-funded Project namely INTELLIOT. In these project, he contributed his knowledge on Blockchain and Wireless IoT system, and practical implement Blockchain and Smart Contract for cross-domain applications. He worked as a Blockchain Reseacher in SIEMENS AG, Munich in line with INTELLIOT project to build PoCs and infrastructure for shared Manufacturing over 5G network, Digital Twin, and Data Marketplace applications, in which he shows his expertise on development of Ethereum, IOTA, Hyperledger Fabric, Quorum, and Solana, as well as Wireless IoT systems. <br>
+		    He is key contributor of 2 European-funded Project namely INTELLIOT and WILLOW. In these project, he contributed his knowledge on Blockchain and Wireless IoT system, and practical implement Blockchain and Smart Contract for cross-domain applications. He worked as a Blockchain Architect in SIEMENS AG, Munich in line with INTELLIOT project to build PoCs and infrastructure for shared Manufacturing over 5G network, Digital Twin, and Data Marketplace applications, in which he shows his expertise on development of Ethereum, IOTA, Hyperledger Fabric, Quorum, and Solana, as well as Wireless IoT systems. <br>
 		    He receives OUTSTANDING RESEARCH AWARD for the research about scaling Blockchain in Massive IoT at the IEEE World Forum Internet of Things 2020, travel grant from Linux Foundation 2020, BEST RESEARCH AWARD for a solution of Blockchain-based CO2 Emission Trading from VEHITS 2021. He is Hyperledger Member, IEEE Student Member, and IEEE ComSoc Student Member. He was a Co-founder of Adu9-an IoT-based Startup.
             </p>
 
@@ -152,7 +177,7 @@
                     <div class="e ">
 			 <p> 11. <a href="https://arxiv.org/abs/2203.05369" target="_blank " style="color:rgb(25, 0, 255); text-decoration: none "> <i> A Contribution-based Device Selection Scheme in Federated Learning </i> </a> <br>
 			    Shashi Raj Pandey, <u>Lam D. Nguyen</u>, Petar Popovski <br>
-				<b> IEEE Communication Letters  (2022) (Under Review) </b> <br>
+				<b> IEEE Communication Letters  (2022) </b> <br>
 				<a href="https://arxiv.org/abs/2203.05369" target="_blank " style="color:rgb(25, 0, 255); text-decoration: none "> [paper] </a>  <a target="_blank " style="color:red; text-decoration: none ">[Impact Factor: 4.36]</a>  
 			    </p>
 			    
@@ -164,7 +189,7 @@
 			    			    
 			<p> 9. <a href="https://arxiv.org/pdf/2112.02870.pdf" target="_blank " style="color:rgb(25, 0, 255); text-decoration: none "> <i>"A Marketplace for Trading AI Models based on Blockchain and Incentives for IoT Data" </i> </a> <br>
 				 <u>Lam D. Nguyen</u>, Shashi Raj Pandey, Beatriz Soret, Broeing Arne, and Petar Popovski. <br>
-				 <b>IEEE Journal Submission[Under Review] (2021) </b>. <br>
+				 <b>IEEE Transactions on Network Science and Engineering [Under Review] (2021) </b>. <br>
 				 <a href="https://arxiv.org/pdf/2112.02870.pdf" target="_blank " style="color:rgb(25, 0, 255); text-decoration: none "> [paper] </a>  <a target="_blank " style="color:red; text-decoration: none ">[Impact Factor:3.894]</a>    </p>
 			 
 			<p> 8.  <a href="https://arxiv.org/pdf/2110.01686.pdf" target="_blank " style="color:rgb(25, 0, 255); text-decoration: none ">  <i>"Learning, Computing, and Trustworthiness in Intelligent IoT Environments: Performance-Energy Tradeoffs."</i> </a> <br>
@@ -199,7 +224,7 @@
                         <p> 3. <a href="https://arxiv.org/pdf/1903.01839.pdf"
                                 target="_blank " style="color:rgb(25, 0, 255); text-decoration: none "> <i>"Towards skewness and balancing of RPL trees for the internet of things."</i> </a> <br>				
 				<u> Lam D. Nguyen</u>, and Chong-Kwon Kim. <br>
-				<b> IEEE Transactions on Vehicular Technology (2019) (Under Review).  </b> <br>
+				<b> IEEE Transactions on Vehicular Technology (2019).  </b> <br>
 				<a href="https://arxiv.org/pdf/1903.01839.pdf"
                                 target="_blank " style="color:rgb(25, 0, 255); text-decoration: none "> [paper] </a> <a target="_blank " style="color:red; text-decoration: none ">[Impact Factor:5.978]</a> </p>
 
@@ -320,7 +345,7 @@
                     <h2> <a target="_blank " style="color:blue; text-decoration: none " id="experiences"> Experiences</a> </h2>
                     <div class="e ">
 
-		      <p> &#9830 [Blockchain Researcher]. Siemens AG, Munich, Germany </p>
+		      <p> &#9830 [Blockchain Architect]. Siemens AG, Munich, Germany </p>
                         <ul>
                             <p> Building PoCs for shared manufacturing based on ETH, Fabric, IOTA, Quorum and Solana. </p>
                             <p> Building Blockchain-based Marketplace for AI/ML Models with Federated Learning.</p>
