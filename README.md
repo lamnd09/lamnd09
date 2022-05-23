@@ -4,7 +4,6 @@
 
 He is key contributor of the European-funded Project namely INTELLIOT . In these projects, he contributed his knowledge on Blockchain and Wireless IoT systems, and practical implemented Blockchain and Smart Contract for cross-domain applications. He worked as a Blockchain Researcher in SIEMENS AG, Munich in line with INTELLIOT project to build PoCs and infrastructure for shared Manufacturing over 5G network, Digital Twin, and Data Marketplace applications, in which he shows his expertise on development of Ethereum, IOTA, Hyperledger Fabric, Quorum, and Solana, as well as Wireless IoT systems.
 
-He receives OUTSTANDING RESEARCH AWARD for the research about scaling Blockchain in Massive IoT at the IEEE World Forum Internet of Things 2020, travel grant from Linux Foundation 2020, BEST RESEARCH AWARD for a solution of Blockchain-based CO2 Emission Trading from VEHITS 2021. He is Hyperledger Member, IEEE Student Member, and IEEE ComSoc Student Member. He was a Co-founder of Adu9-an IoT-based Startup.
 
 **In summary:**
 
