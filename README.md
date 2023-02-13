@@ -7,9 +7,9 @@ He is key contributor of the European-funded Project namely INTELLIOT . In these
 
 **In summary:**
 
-:rocket: **+5 years** experience with development of Ethereum/Smart Contract/DAPPs
+:rocket: **5+ years** experience with development of Ethereum/Smart Contract/DAPPs
 
-:rocket: **+5 years** Experience with IoT System Design 
+:rocket: **8+ years** Experience with IoT System Design 
 
 :hearts: Familar with Python, Solidity, Nodejs, and Golang
 
