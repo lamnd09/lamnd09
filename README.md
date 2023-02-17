@@ -11,7 +11,7 @@ He is key contributor of the European-funded Project namely INTELLIOT . In these
 
 :rocket: **5+ years** Experience with AWS, Kubernetes, Containers, DevOps and project management 
 
-:rocket: **8+ years** Experience with IoT System Design 
+:rocket: **8+ years** Experience with Distributed, IoT, AI/ML System Design 
 
 :hearts: Familar with Python, Solidity, Nodejs, and Golang
 
