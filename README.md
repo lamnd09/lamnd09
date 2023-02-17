@@ -7,7 +7,9 @@ He is key contributor of the European-funded Project namely INTELLIOT . In these
 
 **In summary:**
 
-:rocket: **5+ years** experience with development of Ethereum/Smart Contract/DAPPs
+:rocket: **5+ years** experience with development of Blockchains e.g, Hyperledger, Ethereum/Smart Contract/DAPPs
+
+:rocket: **5+ years** Experience with AWS, Kubernetes, Containers, DevOps and project management 
 
 :rocket: **8+ years** Experience with IoT System Design 
 
