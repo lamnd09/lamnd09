@@ -1,6 +1,6 @@
 # Welcome 
 
-**Lam Duc Nguyen** is a Blockchain Solution Architect, Senior DevOps Engineer. I have worked in Blockchain, IoT and AI/ML systems since 2017. 
+**Lam Duc Nguyen** is a Blockchain Solution Architect, Senior DevOps Engineer. I have worked on Blockchain, IoT and AI/ML systems since 2017. 
 
 **In summary:**
 
