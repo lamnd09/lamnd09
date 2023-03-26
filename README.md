@@ -1,5 +1,7 @@
 # Welcome 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=LorranSutter.heyPage)
+
 **Lam Duc Nguyen** is a Blockchain Solution Architect, Senior DevOps Engineer. I have worked on Blockchain, IoT and AI/ML systems since 2017. 
 
 **In summary:**
