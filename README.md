@@ -6,7 +6,7 @@
 
 **In summary:**
 
-:rocket: **5+ years** experience with development of Blockchains e.g, Hyperledger, Ethereum/Smart Contract/DAPPs
+:rocket: **5+ years** experience with development of Blockchains e.g, Hyperledger, Ethereum/Smart Contract/DAPPs at CNT-Denmark, Siemens-Germany.
 
 :rocket: **5+ years** Experience with AWS, Kubernetes, Containers, DevOps and project management 
 
