@@ -12,7 +12,7 @@
 
 :rocket: **8+ years** Experience with Distributed, IoT, AI/ML System Design 
 
-:hearts: Familar with Python, Solidity, Nodejs, Golang, etc. 
+:hearts: Familar with DBs, e.g, MongoDB, PostgresQL, languages Python, Solidity, Nodejs, Golang, etc. 
 
 :desktop_computer: Work with various Blockchain platforms, Hyperledger Fabric, IOTA, Quorum, Solana. 
 
