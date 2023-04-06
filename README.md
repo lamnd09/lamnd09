@@ -6,13 +6,13 @@
 
 **In summary:**
 
-:rocket: **5+ years** experience with development of Blockchain Systems e.g, using Hyperledger, Ethereum/Smart Contract/DAPPs.
+:rocket: **5+ years** experience with development of Blockchain Systems e.g, using Hyperledger, Ethereum/Smart Contract/Dapps.
 
 :rocket: **5+ years** Experience with AWS, Kubernetes, Containers, DevOps and project management 
 
 :rocket: **8+ years** Experience with Distributed, IoT, AI/ML System Design 
 
-:hearts: Familar with DBs, e.g, MongoDB, PostgresQL, languages Python, Solidity, Nodejs, Golang, etc. 
+:hearts: Familar with API system design, DBs, e.g, MongoDB, PostgresQL, languages Python, Solidity, Nodejs, Golang, etc. 
 
 :desktop_computer: Work with various Blockchain platforms, Hyperledger Fabric, IOTA, Quorum, Solana. 
 
