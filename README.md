@@ -12,6 +12,8 @@
 
 :rocket: **8+ years** Experience with Distributed, IoT, AI/ML System Design 
 
+:rocket: **Co-Founder** Co-founder and CTO of Adu-9, IoT smartdoor startup
+
 :hearts: Familar with API system design, DBs, e.g, MongoDB, PostgresQL, languages Python, Solidity, Nodejs, Golang, etc. 
 
 :desktop_computer: Work with various Blockchain platforms, Hyperledger Fabric, IOTA, Quorum, Solana. 
