@@ -6,6 +6,8 @@
 
 **In summary:**
 
+:rocket: I am very familar with development of Ethereum DApps, Web3, NFT marketplace and Enterprise Blockchain platforms. 
+
 :rocket: **5+ years** experience with development of Blockchain Systems e.g, using Hyperledger, Ethereum/Smart Contract/Dapps.
 
 :rocket: **5+ years** Experience with AWS, Kubernetes, Containers, DevOps and project management 
