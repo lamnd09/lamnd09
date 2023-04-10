@@ -1,5 +1,7 @@
 # Welcome 
 
+[![lamnd09's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTachyon&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/lamnd09/github-readme-stats)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lamnd09)
 
 **Lam Nguyen** is a Blockchain Solution Architect, Senior Software/DevOps Engineer. He has worked on Blockchain, IoT and AI/ML systems for over 7+ years at Web3 startups and companies e.g. Siemens, Munich, CNT Denmark, South Korea, Singapore. 
