@@ -1,6 +1,6 @@
 # Welcome 
 
-[![lamnd09's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTachyon&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/lamnd09/github-readme-stats)
+[![lamnd09's's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamnd09&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/lamnd09/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lamnd09)
 
