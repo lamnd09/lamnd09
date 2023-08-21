@@ -7,12 +7,19 @@
 **In summary:**
 
 :rocket: I am very familiar with the development of Ethereum DApps, Web3, NFT marketplace and Enterprise Blockchain platforms, AI/ML tools e.g, Pytorch, and TensorFlow. 
+
 :rocket: **5+ years** experience with the development of Blockchain Systems e.g, using Hyperledger, Ethereum/Smart Contract/Dapps.
+
 :rocket: **5+ years** Experience with AWS, Kubernetes, Containers, DevOps and project management 
+
 :rocket: **8+ years** Experience with Distributed, IoT, AI/ML System Design 
+
 :rocket: **Co-Founder** Co-founder and CTO of Adu-9, IoT smart door startup
+
 :hearts: Familiar with API system design, DBs, e.g, MongoDB, PostgreSQL, languages Python, Solidity, Nodejs, Golang, etc. 
+
 :desktop_computer: Work with various Blockchain platforms, Hyperledger Fabric, IOTA, Quorum, Solana. 
+
 :notebook_with_decorative_cover: Interested to work with Blockchain, NFT, Distributed Learning, Marketplace, DAPPs
 
 
