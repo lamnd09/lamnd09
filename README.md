@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lamnd09)
 
-**Lam Nguyen** is a Senior Solution Architect, and experienced Software/DevOps Engineer. He has worked on the integration of Blockchain, IoT and AI/ML systems for over 8+ years at Web3 startups and well-known companies e.g. Siemens, Munich, CNT Denmark, Samsung&SNU South Korea, Singapore. 
+**Lam Nguyen** is a Senior Solution Architect, and experienced Software/DevOps Engineer. He has worked on the integration of Blockchain, IoT and AI/ML systems for over 8+ years at Web3 startups, e.g,**FLock** and well-known companies e.g. **Siemens**, Munich, CNT Denmark, **Samsung&SNU** South Korea, and Singapore. 
 
 **In summary:**
 
